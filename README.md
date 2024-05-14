@@ -4,3 +4,6 @@
 
 #### code here isnt very good and it runs horribly
 #### also i just used the old 2d game as a base which is why theres options.java and wierd renderlib stuff
+
+#### game looks like this (im a pro artist ik) my final destination clone looks hot
+![image](https://github.com/scoliossis/2d-fighting-game-ig/assets/152733080/2b752a41-b653-40a7-ae3f-b97372f6f1fb)
